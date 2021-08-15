@@ -1,5 +1,5 @@
 """
-Main file. Handles command line arguments.
+Application discriptions here.
 """
 
 # MIT License
@@ -24,13 +24,11 @@ Main file. Handles command line arguments.
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-
-def main():
-    """
-    Main function.
-    """
-    pass
+import os.path
 
 
-if __name__ == "__main__":
-    main()
+basedir = os.path.dirname(os.path.realpath(__file__))
+
+__maintainer__ = "Tom George Ampiath"
+__application_name__ = "mkwiki"
+__description__ = "An open source cross-platform tool for auto generating Project Wiki."
