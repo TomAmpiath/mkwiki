@@ -24,6 +24,7 @@ The main application logic is defined here.
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+
 def main():
     """
     Main function of the application

@@ -26,6 +26,5 @@ This file invokes the main function of the application.
 
 from mkwiki.mkwiki import main
 
-
 if __name__ == "__main__":
     main()

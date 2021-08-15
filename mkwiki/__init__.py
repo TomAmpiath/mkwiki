@@ -26,7 +26,6 @@ Application discriptions here.
 
 import os.path
 
-
 basedir = os.path.dirname(os.path.realpath(__file__))
 
 __maintainer__ = "Tom George Ampiath"
